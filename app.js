@@ -222,3 +222,183 @@
 // }
 
 // IF MASALALARI TUGADI
+
+// BOOLEAN START
+
+// 1)
+
+// let n1 = Number(prompt("Son kiriting:"));
+
+// if (n1 > 0) {
+//   console.log(`Ha, bu son musbat`);
+// } else {
+//   console.log(`Yo'q, bu son musbat emas`);
+// }
+
+// 2)
+
+// let n1 = Number(prompt("Son kiriting:"));
+
+// if (n1 % 2 != 0) {
+//   console.log(`Ha, bu son toq son`);
+// } else {
+//   console.log(`Yo'q, bu son juft son`);
+// }
+
+// 3)
+
+// let n1 = Number(prompt("Son kiriting:"));
+
+// if (n1 % 2 != 1) {
+//   console.log(`Ha, bu son just son`);
+// } else {
+//   console.log(`Yo'q, bu son toq son`);
+// }
+
+// 4)
+
+// let a = Number(prompt("Birinchi sonni kiriting:"));
+// let b = Number(prompt("Ikkinchi sonni kiriting:"));
+
+// if (a > 2 && b <= 3) {
+//   console.log(`True`);
+// } else {
+//   console.log(`False`);
+// }
+
+// 5)
+
+// let a = Number(prompt("Birinchi sonni kiriting:"));
+// let b = Number(prompt("Ikkinchi sonni kiriting:"));
+
+// if (a >= 2 && b < -2) {
+//   console.log(`True`);
+// } else {
+//   console.log(`False`);
+// }
+
+// 6)
+
+// let a = Number(prompt("Birinchi sonni kiriting:"));
+// let b = Number(prompt("Ikkinchi sonni kiriting:"));
+// let c = Number(prompt("Uchinchi sonni kiriting:"));
+
+// if (a <= b <= c) {
+//   console.log(`True`);
+// } else {
+//   console.log(`False`);
+// }
+
+// 7)
+
+// let a = Number(prompt("Birinchi sonni kiriting:"));
+// let b = Number(prompt("Ikkinchi sonni kiriting:"));
+// let c = Number(prompt("Uchinchi sonni kiriting:"));
+
+// if (a <= b <= c || c <= b <= a) {
+//   console.log(`True`);
+// } else {
+//   console.log(`False`);
+// }
+
+// 8)
+
+// let a = Number(prompt("Birinchi sonni kiriting:"));
+// let b = Number(prompt("Ikkinchi sonni kiriting:"));
+
+// if (a % 2 == 1 && b % 2 != 0) {
+//   console.log(`True`);
+// } else {
+//   console.log(`False`);
+// }
+
+// 9)
+
+// let a = Number(prompt("Birinchi sonni kiriting:"));
+// let b = Number(prompt("Ikkinchi sonni kiriting:"));
+
+// if (a % 2 == 1 || b % 2 != 0) {
+//   console.log(`True`);
+// } else {
+//   console.log(`False`);
+// }
+
+// 10)
+
+// let a = Number(prompt("Birinchi sonni kiriting:"));
+// let b = Number(prompt("Ikkinchi sonni kiriting:"));
+
+// if ((a % 2 == 1 && b % 2 == 0) || (a % 2 == 0 && b % 2 == 1)) {
+//   console.log(`True`);
+// } else {
+//   console.log(`False`);
+// }
+
+// 11)
+
+// let a = Number(prompt("Birinchi sonni kiriting:"));
+// let b = Number(prompt("Ikkinchi sonni kiriting:"));
+
+// if ((a % 2 == 0 && b % 2 == 0) || (a % 2 == 1 && b % 2 == 1)) {
+//   console.log(`True`);
+// } else {
+//   console.log(`False`);
+// }
+
+// 12)
+
+// let a = Number(prompt("Birinchi sonni kiriting:"));
+// let b = Number(prompt("Ikkinchi sonni kiriting:"));
+// let c = Number(prompt("Uchinchi sonni kiriting:"));
+
+// if (a > 0 && b > 0 && c > 0) {
+//   console.log(`True`);
+// } else {
+//   console.log(`False`);
+// }
+
+// 13)
+
+// let a = Number(prompt("Birinchi sonni kiriting:"));
+// let b = Number(prompt("Ikkinchi sonni kiriting:"));
+// let c = Number(prompt("Uchinchi sonni kiriting:"));
+
+// if (a > 0 || b > 0 || c > 0) {
+//   console.log(`True`);
+// } else {
+//   console.log(`False`);
+// }
+
+// 14)
+
+// let a = Number(prompt("Birinchi sonni kiriting:"));
+// let b = Number(prompt("Ikkinchi sonni kiriting:"));
+// let c = Number(prompt("Uchinchi sonni kiriting:"));
+
+// if (
+//   (a > 0 && b < 0 && c < 0) ||
+//   (a < 0 && b > 0 && c < 0) ||
+//   (a < 0 && b < 0 && c > 0)
+// ) {
+//   console.log(`True`);
+// } else {
+//   console.log(`False`);
+// }
+
+// 15)
+
+// let a = Number(prompt("Birinchi sonni kiriting:"));
+// let b = Number(prompt("Ikkinchi sonni kiriting:"));
+// let c = Number(prompt("Uchinchi sonni kiriting:"));
+
+// if (
+//   (a > 0 && b > 0 && c < 0) ||
+//   (a > 0 && b < 0 && c > 0) ||
+//   (a < 0 && b > 0 && c > 0)
+// ) {
+//   console.log(`True`);
+// } else {
+//   console.log(`False`);
+// }
+
+// BOOLEAN 15 END
