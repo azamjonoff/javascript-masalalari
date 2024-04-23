@@ -402,3 +402,37 @@
 // }
 
 // BOOLEAN 15 END
+
+// BOOLEAN 15 MORE START
+
+// 16)
+
+// let n = Number(prompt(`Musbat son kiriting:`));
+
+// if (n % 2 == 0 && 10 <= n && n <= 99) {
+//   console.log(`True`);
+// } else {
+//   console.log(`False`);
+// }
+
+// 17)
+
+// let n = Number(prompt(`Musbat son kiriting:`));
+
+// if (n % 2 == 1 && 100 <= n && n <= 999) {
+//   console.log(`True`);
+// } else {
+//   console.log(`False`);
+// }
+
+// 18)
+
+let a = Number(prompt("Birinchi sonni kiriting:"));
+let b = Number(prompt("Ikkinchi sonni kiriting:"));
+let c = Number(prompt("Uchinchi sonni kiriting:"));
+
+if () {
+  console.log(`True`);
+} else {
+  console.log(`False`);
+}
